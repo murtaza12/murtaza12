@@ -2,6 +2,8 @@
 
 I'm **Muhammad Murtaza**, a passionate **Software Engineer** with over 5 years of experience in designing, developing, and maintaining scalable applications. I specialize in **C#**, **.NET Core**, **Entity Framework Core**, and building RESTful APIs.  
 
+[![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=murtaza12&show_icons=true&theme=radical)](https://github.com/murtaza12/github-readme-stats)
+
 ## 🔧 Technical Expertise:  
 - **Backend Development**: .NET Core 6/7, ASP.NET, WebAPI  
 - **Database Design**: SQL Server, Oracle 19c  
@@ -23,4 +25,4 @@ I love sharing knowledge and contributing to open-source projects. Feel free to 
 
 ## 📫 Connect with me:  
 - **GitHub**: [murtaza12](https://github.com/murtaza12)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/murtaza-dev/)  
