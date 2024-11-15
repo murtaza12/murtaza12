@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**murtaza12/murtaza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muhammad Murtaza**, a passionate **Software Engineer** with over 5 years of experience in designing, developing, and maintaining scalable applications. I specialize in **C#**, **.NET Core**, **Entity Framework Core**, and building RESTful APIs.  
 
-Here are some ideas to get you started:
+## 🔧 Technical Expertise:  
+- **Backend Development**: .NET Core 6/7, ASP.NET, WebAPI  
+- **Database Design**: SQL Server, Oracle 19c  
+- **Frontend**: ReactJs, HTML, CSS, JavaScript  
+- **Cloud & DevOps**: AWS (Preparing for AWS Solution Architect certification)  
+- **Microservices**: RabbitMQ, Kafka  
+- **Software Architecture**: Event-Driven Design, Domain-Driven Design (DDD), N-Tier Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects & Contributions:  
+- Built comprehensive solutions for **EdTech**, **E-commerce**, and **Restaurant analytics**.  
+- Working on a **Design Patterns and Principles Repository** to help developers understand and implement them with real-world examples.  
+- Advocating clean code practices and software craftsmanship through detailed documentation and unit-tested examples.  
+
+## 🚀 Learning & Interests:  
+I'm always eager to learn and explore new technologies. Currently, I’m diving deeper into **machine learning**, **dashboard analytics**, and **AWS cloud solutions**.  
+
+## 🌟 Let's Collaborate:  
+I love sharing knowledge and contributing to open-source projects. Feel free to reach out if you want to collaborate or explore opportunities together!  
+
+## 📫 Connect with me:  
+- **GitHub**: [murtaza12](https://github.com/murtaza12)  
+- **LinkedIn**: [Your LinkedIn Profile](#)  
