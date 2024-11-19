@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Muhammad Murtaza**, a passionate **Software Engineer** with over 5 years of experience in designing, developing, and maintaining scalable applications. I'm  experienced in designing and implementing scalable solutions for diverse industries. My expertise lies in creating reliable, high-performance applications using .NET Core, Clean Architecture, and microservices. Currently, I am working with .NET Core 8, RabbitMQ, and MassTransit to build event-driven systems with publisher-subscriber patterns and Dockerized services.
+I'm **Muhammad Murtaza**, a passionate **Software Engineer** with over 5 years of experience in designing, developing, and maintaining scalable applications. I'm  experienced in designing and implementing scalable solutions for diverse industries. My expertise lies in creating reliable, high-performance applications using .NET Core, Clean Architecture, and microservices. Currently, I am working with .NET Core 8, RabbitMQ, and MassTransit to build event-driven systems with publisher-subscriber patterns and Dockerized services. I have hands-on experience with web servers like NGINX. My deployment workflow emphasizes automation, ensuring seamless CI/CD pipelines for robust and resilient systems.
 
 💼 I am passionate about writing clean, maintainable code and leveraging design patterns to improve software quality. My projects are organized with a focus on readability, scalability, and testing, ensuring that each solution is production-ready and built for long-term success.
 
